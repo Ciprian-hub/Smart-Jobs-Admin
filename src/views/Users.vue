@@ -29,7 +29,6 @@ function getAllUsersV(){
 
 onMounted(() => {
   getAllUsersV()
-  useUsers.getAllUsersP()
 })
 
 </script>
